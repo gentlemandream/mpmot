@@ -1,0 +1,15 @@
+{
+    "root":"/home/duer/Duer/project/fairmot/FairMOT-master/data",
+    "train":
+    {
+        "mot17":"./src/data/mot17.half"
+    },
+    "test_emb":
+    {
+        "mot17":"./src/data/mot17.emb"
+    },
+    "test":
+    {
+        "mot17":"./src/data/mot17.val"
+    }
+}
